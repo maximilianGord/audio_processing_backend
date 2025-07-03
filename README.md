@@ -4,8 +4,6 @@ This is the Backend from a private project I am working on with my friends now. 
 All this changes can be found in this subfolder that belongs to out project.
 
 
-## Getting Started without Docker : 
-
 ### 1. Clone the repository
 
 ```bash
